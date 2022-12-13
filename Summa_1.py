@@ -4,4 +4,4 @@ while True:
     if p>r:
         print ('Hello !!!')
     else:
-        print ('Somebody to Love')
+        print ('Freddy')
